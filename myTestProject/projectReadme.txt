@@ -5,3 +5,4 @@ branch 1 changes after master rebase
 branch 1 commit only
 branch 1 commit and push
 branch 1 new commit and push
+branch 1 new commit only
